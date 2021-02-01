@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Carter+One&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Changa:wght@500&display=swap');
+
+body {
+  background-color: #24242A
+}
+
+
+h1 {
+  Color:#ff4c4c;
+  font-family: 'Carter One', cursive;
+  text-align: center
+}
+
+span {
+  color:#34bf49;
+}
+
+img {
+  margin-left: 88px;
+}
+
+p {
+  font-size: 25px;
+  margin-left: 115px;
+  margin-top: -40px;
+  color:#08f12f;
+  font-family: 'Changa', sans-serif;
+}
+
+button {
+  font-size: 15px;
+  margin-left: 109px;
+  color: #FFFFFF;
+  background: #08f12f;
+  border-radius: 10px;
+  font-family: 'Changa', sans-serif;
+}
+
+button:hover {
+  border: 2px solid #65FF06;
+}
